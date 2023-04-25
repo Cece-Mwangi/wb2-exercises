@@ -1,6 +1,6 @@
 //a=pie r(2)
 //variables
-var radius = 4
+var radius = 10;
 
 //operation
 var area = Math.PI * radius**2
